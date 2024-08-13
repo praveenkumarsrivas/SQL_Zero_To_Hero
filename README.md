@@ -7,11 +7,11 @@ Welcome to the **SQL_Zero_To_Hero** repository! 🚀 This hub is designed for SQ
 
 Explore structured documentation crafted to make learning SQL both engaging and efficient. Each document covers a crucial aspect of SQL:
 
-- **[GettingStart.md](./GettingStart.md)**: Perfect for beginners! Get set up and start your journey in SQL with easy-to-follow steps. 🌱
-- **[CRUD_DML_DDL.md](./CRUD_DML_DDL.md)**: Discover the core operations in SQL with examples on CRUD, DML, and DDL. 📊
-- **[PrimaryKeyVsUniqueKey.md](./PrimaryKeyVsUniqueKey.md)**: Understand the differences and uses of Primary and Unique keys with practical insights. 🔑
-- **[ForeignKeyConstraint.md](./ForeignKeyConstraint.md)**: Master the intricacies of foreign key constraints and their crucial role in database integrity. 🔗
-- **[clauses_operators.md](./clauses_operators.md)**: Deep dive into SQL clauses and operators, enhancing your ability to craft powerful queries. 🛠️
+- **[1_GettingStart.md](./GettingStart.md)**: Perfect for beginners! Get set up and start your journey in SQL with easy-to-follow steps. 🌱
+- **[2_CRUD_DML_DDL.md](./CRUD_DML_DDL.md)**: Discover the core operations in SQL with examples on CRUD, DML, and DDL. 📊
+- **[3_PrimaryKeyVsUniqueKey.md](./PrimaryKeyVsUniqueKey.md)**: Understand the differences and uses of Primary and Unique keys with practical insights. 🔑
+- **[4_ForeignKeyConstraint.md](./ForeignKeyConstraint.md)**: Master the intricacies of foreign key constraints and their crucial role in database integrity. 🔗
+- **[5_clauses_operators.md](./clauses_operators.md)**: Deep dive into SQL clauses and operators, enhancing your ability to craft powerful queries. 🛠️
 
 ## 🚀 Getting Started
 
