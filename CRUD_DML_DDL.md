@@ -225,18 +225,15 @@ Empty set
 
 ---
 ### If you like this SQL series of notes please leave a star ⭐ to the repository Happy Learning 
-
-<div style="color: #0F0; font-family: 'Courier New', monospace; background-color: #000; padding: 10px; border-radius: 5px; width: fit-content; display: inline-block;">
-    <img src="https://avatars.githubusercontent.com/u/11313549?v=4" style="width: 50px; height: 50px; border-radius: 50%; vertical-align: middle; border: 2px solid #0F0; margin-right: 10px;" alt="Profile Picture">
-    <strong>Praveen Srivas</strong><br>
-    <em>Machine Learning Enthusiastic | Harnessing Data to Unlock Insights</em><br>
-    <a href="https://www.linkedin.com/in/praveennitk/" style="color: #0F0; text-decoration: none; font-size: 16px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="width: 20px; vertical-align: middle;" alt="LinkedIn"> LinkedIn
+<img width="579" alt="image" src="https://github.com/user-attachments/assets/dd0ba111-f39c-4f4b-ae38-5ac30af30db9">
+<p align="left">
+    <a href="https://www.linkedin.com/in/praveennitk/">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" alt="LinkedIn"> LinkedIn
     </a> |
-    <a href="https://github.com/praveenkumarsrivas" style="color: #0F0; text-decoration: none; font-size: 16px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="width: 20px; vertical-align: middle;" alt="GitHub"> GitHub
+    <a href="https://github.com/praveenkumarsrivas">
+        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20" alt="GitHub"> GitHub
     </a> |
-    <a href="https://www.instagram.com/me_prvn/" style="color: #0F0; text-decoration: none; font-size: 16px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" style="width: 20px; vertical-align: middle;" alt="Instagram"> Instagram
+    <a href="https://www.instagram.com/me_prvn/">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="20" alt="Instagram"> Instagram
     </a>
-</div>
+</p>
