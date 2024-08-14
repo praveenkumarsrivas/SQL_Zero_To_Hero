@@ -243,14 +243,9 @@ primary key(firstname, lastname)
 );
 ```
 ***Inserting the duplicate data***
-<<<<<<< HEAD
-Inserting the below data:
-  - INSERT INTO employee 
-=======
 ```sql
 Inserting the below data:
 INSERT INTO employee 
->>>>>>> 5277b84 (formatted composite key sql query)
 VALUES ('Praveen','Kumar',28);
 
 select * from employee;
@@ -259,26 +254,14 @@ select * from employee;
 +-----------+----------+-----+
 | Praveen   | Kumar    |  28 |
 +-----------+----------+-----+
-<<<<<<< HEAD
-
-Again isnerting the same data
-  - INSERT INTO employee 
-VALUES ('Praveen','Kumar',28);
-
-```sql
-=======
 ```
 Again isnerting the same data
 ```sql
 INSERT INTO employee 
 VALUES ('Praveen','Kumar',28);
 
->>>>>>> 5277b84 (formatted composite key sql query)
 ERROR 1062 (23000): Duplicate entry 'Praveen-Kumar' for key 'employee.PRIMARY'
 ```
-
-
-
 
 
 ## 🔑 Comparison of Primary Key, Unique Key, and Composite Key
