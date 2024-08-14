@@ -12,6 +12,10 @@ Explore structured documentation crafted to make learning SQL both engaging and 
 - **[3_PrimaryKeyVsUniqueKey.md](./3_PrimaryKeyVsUniqueKey.md)**: Understand the differences and uses of Primary and Unique keys with practical insights. 🔑
 - **[4_ForeignKeyConstraint.md](./4_ForeignKeyConstraint.md)**: Master the intricacies of foreign key constraints and their crucial role in database integrity. 🔗
 - **[5_clauses_operators.md](./5_clauses_operators.md)**: Deep dive into SQL clauses and operators, enhancing your ability to craft powerful queries. 🛠️
+- **[6_Aggregate_functions.md](./6_Aggregate_functions.md)**: Deep dive into SQL Aggregate functions in SQL are used to perform calculations on a set of values.
+- **[7_Datatypes.md](./7_Datatypes.md)**: Deep dive into SQL datatypes Understanding data types.
+- **[8_Logical_operators.md](./8_Logical_operators.md)**: Deep dive into SQL Logical operators is crucial for filtering and combining multiple conditions.
+- **[9_Joins.md](./9_Joins.md)**: Deep dive into SQL Joins to combine rows from two or more tables. 🛠️
 
 ## 🚀 Getting Started
 
