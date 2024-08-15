@@ -384,7 +384,7 @@ In a database, **constraints** are rules enforced on data columns within a table
 - **Default**: Sets a default value for a column when no value is specified during data entry.
 
 ---
-### If you like this SQL series of notes please leave a star ⭐ to the repository Happy Learning 
+### If you like this SQL series please leave a star ⭐ to the repository Happy Learning 
 <img width="579" alt="image" src="https://github.com/user-attachments/assets/dd0ba111-f39c-4f4b-ae38-5ac30af30db9">
 <p align="left">
     <a href="https://www.linkedin.com/in/praveennitk/">
