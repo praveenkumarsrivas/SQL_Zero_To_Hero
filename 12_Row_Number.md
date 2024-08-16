@@ -204,3 +204,23 @@ The `DENSE_RANK()` function assigns a unique rank to each row within a partition
 
 ### Use Case
 - **Use Case**: Ranking employees by their salaries. When two or more employees have the same salary, they receive the same rank, and the following rank is the next consecutive number, without skipping any ranks.
+
+
+
+---
+
+### If you like this SQL series please leave a star ⭐ to the repository Happy Learning 
+
+<img width="579" alt="image" src="https://github.com/user-attachments/assets/dd0ba111-f39c-4f4b-ae38-5ac30af30db9">
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/praveennitk/">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" alt="LinkedIn"> LinkedIn
+    </a> |
+    <a href="https://github.com/praveenkumarsrivas">
+        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20" alt="GitHub"> GitHub
+    </a> |
+    <a href="https://www.instagram.com/me_prvn/">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="20" alt="Instagram"> Instagram
+    </a>
+</p>

@@ -19,6 +19,7 @@ Explore structured documentation crafted to make learning SQL both engaging and 
 - **[10_Interview_questions.md](./10_Interview_questions.md)**: Some Practical use cases 🛠️
 - **[11_over_partion_clause.md](./11_over_partion_clause.md)**: Deep dive into SQL OVER PARTITION, WINDOW FUNCTION. 🛠️
 - **[12_Row_Number.md](./12_Row_Number.md)**: Deep dive into SQL ROW_NUMBER,RANK,DENSE_RANK. 🛠️
+- **[TEST_YOUR_SQL_SKILL.md](./TEST_YOUR_SQL_SKILL.md)**: Deep dive into SQL Practice mode 🛠️
 
 ## 🚀 Getting Started
 
@@ -45,7 +46,7 @@ Thank you for visiting our SQL Mastery repository, and happy learning!
 
 ---
 
-### If you like this SQL series of notes please leave a star ⭐ to the repository Happy Learning 
+### If you like this SQL series please leave a star ⭐ to the repository Happy Learning 
 
 <img width="579" alt="image" src="https://github.com/user-attachments/assets/dd0ba111-f39c-4f4b-ae38-5ac30af30db9">
 
