@@ -16,7 +16,7 @@ Explore structured documentation crafted to make learning SQL both engaging and 
 - **[7_Datatypes.md](./7_Datatypes.md)**: Deep dive into SQL datatypes Understanding data types.
 - **[8_Logical_operators.md](./8_Logical_operators.md)**: Deep dive into SQL Logical operators is crucial for filtering and combining multiple conditions.
 - **[9_Joins.md](./9_Joins.md)**: Deep dive into SQL Joins to combine rows from two or more tables. 🛠️
-- **[10_Interview_questions.md](./10_Interview_questions.md)**: Some Practicle use cases 🛠️
+- **[10_Interview_questions.md](./10_Interview_questions.md)**: Some Practical use cases 🛠️
 - **[11_over_partion_clause.md](./11_over_partion_clause.md)**: Deep dive into SQL OVER PARTITION, WINDOW FUNCTION. 🛠️
 - **[12_Row_Number.md](./12_Row_Number.md)**: Deep dive into SQL ROW_NUMBER,RANK,DENSE_RANK. 🛠️
 
